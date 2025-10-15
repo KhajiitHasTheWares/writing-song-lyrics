@@ -1,4 +1,4 @@
-const expr = "Antimatter- Silent Planet";
+const startSong = "Antimatter- Silent Planet";
 switch (startSong) {
   case "Line 1, verse 1":
     console.log("Silhouette, guilty conscience, barely hanging by a breath");
