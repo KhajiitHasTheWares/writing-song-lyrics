@@ -1,4 +1,4 @@
-const expr = "Wolf Moon - Type O Negative";
+const startSong = "Wolf Moon - Type O Negative";
 switch (startSong) {
   case "Line 1, verse 2":
     console.log("Unholy water");
