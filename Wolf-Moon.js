@@ -1,5 +1,5 @@
 const expr = "Wolf Moon - Type O Negative";
-switch (expr) {
+switch (startSong) {
   case "Line 1, verse 2":
     console.log("Unholy water");
     break;
