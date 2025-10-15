@@ -1,4 +1,4 @@
-const expr = "Out of style - Limp Bizkit";
+const startSong = "Out of style - Limp Bizkit";
 switch (songStart) {
   case "Line 1, Chorus 1":
     console.log("It's time to rock this motherfucker 'cause I'm always out of style (style)");
