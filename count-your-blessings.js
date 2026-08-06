@@ -9,6 +9,3 @@ if (startSong) {
 } else {
   console.log ("Dug our graves together, and we threw away the f----n' shovels");
 }
-
-return 0;
-}
