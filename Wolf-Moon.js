@@ -8,3 +8,6 @@ if (startSong) {
 } else {
   console.log ("Our last blood benidiction");
 }
+
+return 0;
+} 
