@@ -8,3 +8,6 @@ function startSong ("king for a day - Pierce The Veil") {
   } else (startSong) {
     console.log("I'm over sleeping like a dog on the floor");
   }
+return 0;
+}
+
